@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0.0",
+  "updated_at": "2026-05-05T10:16:44.363Z",
+  "description": "OTA Model Update",
+  "models": [
+    {
+      "name": "head_top",
+      "version": "1.0.0",
+      "required": true,
+      "files": [
+        {
+          "filename": "head_top.pt",
+          "platform": "generic",
+          "sha256": "62da97869fd5d240d6dacdcf78fa153451419deb02bc4a1d4475e29d851012fc",
+          "size_bytes": 5464538,
+          "download_url": "http://localhost:5000/models/head_top/1.0.0/head_top.pt"
+        }
+      ]
+    }
+  ]
+}
